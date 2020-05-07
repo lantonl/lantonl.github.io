@@ -1,9 +1,11 @@
 {
     "applinks": {
         "apps": [],
-        "details": [{
-            "appID": "7BQQ2T945J.com.quentiq.tracker.test11",
-            "paths": [“*”]
-        }]
+        "details": [
+            {
+                "appID": "BQQ2T945J.com.quentiq.tracker.test11",
+                "paths": [ "*" ]
+            }
+        ]
     }
 }
